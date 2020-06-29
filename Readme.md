@@ -10,7 +10,7 @@ git clone https://github.com/{your-github-username}/simple-weather-app.git
 ```
 
 ```bash
-cd Natours
+cd simple-weather-app
 ```
 
 ```bash
