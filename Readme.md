@@ -6,11 +6,11 @@ To contribute:
 - Fork the repository, clone and make sure you are not working on the `master branch`
 
 ```bash
-git clone https://github.com/{your-github-username}/Natours.git
+git clone https://github.com/{your-github-username}/simple-weather-app.git
 ```
 
 ```bash
-cd Natours
+cd simple-weather-app
 ```
 
 ```bash
